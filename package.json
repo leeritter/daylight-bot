@@ -8,10 +8,7 @@
   },
   "dependencies": {
     "@slack/bolt": "^1.6.0"
-  },
-  "engines": {
-    "node": "11.x"
-  },
+  },  
   "repository": {
     "url": "https://glitch.com/edit/#!/bolt-app-template"
   },

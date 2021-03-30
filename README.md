@@ -13,3 +13,7 @@ Also uses the eqsol library to calculate solstice dates. I've downloaded and exp
 - `app.js` contains the primary Bolt app and all the date crunching logic and listeners for events coming from slack.
 
 - `.env` is where we keep our Slack app's authorization token and signing secret, but that will not be checked into git.
+
+## Hosting
+
+App is hosted on AWS Elastic Beanstalk.
