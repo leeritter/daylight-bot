@@ -1,7 +1,7 @@
 {
-  "name": "bolt-app-template",
+  "name": "daylight-bot",
   "version": "0.0.1",
-  "description": "A basic template to spin up a Bolt app for Slack",
+  "description": "A little slackbot for checking in on the days.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,12 +10,12 @@
     "@slack/bolt": "^1.6.0"
   },  
   "repository": {
-    "url": "https://glitch.com/edit/#!/bolt-app-template"
+    "url": "https://github.com/leeritter/daylight-bot"
   },
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
-    "express"
+    "daylight",
+    "bolt"
   ]
 }
